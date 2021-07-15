@@ -6,6 +6,7 @@
 soundclass *soundclass::instance=0;
 int main(int argc, char *argv[])
 {
+    //test sdl_master_ etstttttttt
 
     QApplication a(argc, argv);
     MainWindow w;
